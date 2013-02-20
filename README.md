@@ -3,5 +3,5 @@
 Includes
 --------
 
-Montserrat
-Open Sans
+* Montserrat
+* Open Sans
