@@ -5,3 +5,4 @@ Includes
 
 * Montserrat
 * Open Sans
+* Inconsolata
