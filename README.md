@@ -3,6 +3,8 @@
 Includes
 --------
 
+* Fira
+* Inconsolata
+* League Gothic
 * Montserrat
 * Open Sans
-* Inconsolata
