@@ -3,6 +3,7 @@
 Includes
 --------
 
+* [Alegreya](http://www.google.com/fonts/specimen/Alegreya)
 * [Arvo](http://www.google.com/fonts/specimen/Arvo)
 * [Bitter](https://www.google.com/fonts/specimen/Bitter)
 * Fira
@@ -18,3 +19,4 @@ Includes
 * [Source™ Code Pro](http://store1.adobe.com/cfusion/store/html/index.cfm?event=displayFontPackage&code=1960)
 * [PT Sans](https://www.google.com/fonts/specimen/PT+Sans)
 * [PT Serif](https://www.google.com/fonts/specimen/PT+Serif)
+* [Volkorn](https://www.google.com/fonts/specimen/Vollkorn)
